@@ -11,11 +11,11 @@ What is AXFunds?
 ----------------
 
 AXFunds is a version of Bitcoin&Litecoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
- - subsidy maximum 1 coin 1 block per minute
- - transation fee is the factor to increase the block reward
+ - 1 minute block targets
+ - 5 coins   per block
+ - transation fee is 0
  - KGW implmenetion
- - ~2.71 billion total coins
+ - 84 million total coins
  
 The rest is the same as Bitcoin & Litecoin
  - 2016 blocks to retarget difficulty
@@ -47,7 +47,7 @@ match the project's coding conventions (see `doc/coding.txt`) or are
 controversial.
 
 The `axfunds` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/9cat/axfunds/tags) are created
+completely stable. [Tags](https://github.com/axfunds/axfunds/tags) are created
 regularly to indicate new official, stable release versions of AXFunds.
 
 
